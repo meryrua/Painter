@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_menu">Menu</string>
+    <string name="load_menu">Load picture</string>
+</resources>

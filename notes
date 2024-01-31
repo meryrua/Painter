@@ -1,0 +1,9 @@
+10-26 14:59:33.423 3517-3517/? D/LOG_MERYRUA: screenWidth = 1080 screenHeight = 1794
+10-26 14:59:33.423 3517-3517/? D/LOG_MERYRUA: Info: size = 5775 x 8166, bytes = 188634600 (23100), config = ARGB_8888
+10-26 14:59:33.423 3517-3517/? D/LOG_MERYRUA: px = 0.18701299 py = 0.21969141
+
+change Bitmap.Config to RGB_565
+
+10-26 15:13:36.926 3641-3641/com.example.myapplication D/LOG_MERYRUA: screenWidth = 1080 screenHeight = 1794
+10-26 15:13:36.926 3641-3641/com.example.myapplication D/LOG_MERYRUA: Info: size = 5775 x 8166, bytes = 94317300 (11550), config = RGB_565
+10-26 15:13:36.926 3641-3641/com.example.myapplication D/LOG_MERYRUA: px = 0.18701299 py = 0.2074455
